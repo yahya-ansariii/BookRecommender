@@ -5,7 +5,7 @@
 <font size=1>Image Courtesy: https://www.vecteezy.com/members/alenadumanchuk535799</font>
 
 Check the actual deployment of the model on a live server below.
-- [Deployment](http://book.pythonanywhere.com/)
+- [Deployment](https://bookrec.pythonanywhere.com/)
 
 Click on the following link to checkout the video presentation and the colab file.
 - [Colab](https://github.com/novus-afk/BookRecommender/blob/master/Book_Recommendation_System.ipynb)
