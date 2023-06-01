@@ -15,7 +15,7 @@ Click on the following link to checkout the video presentation and the colab fil
 
 ## Deployment Demo
 
-![demo](book.gif)
+![demo](demo.gif)
 
 ---
 
