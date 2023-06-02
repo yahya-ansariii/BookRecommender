@@ -51,22 +51,23 @@ The project involved exploring and analyzing the data, visualizing relationships
 
 Important insights from EDA include:
 
-There are almost 40% missing values in the age column of the user csv.
-Outliers present in Age.
-A lot of zeros in the ratings that are implicit ratings.
-Median implicit rating is 8.
-There are twice as many books published in 2002 than in 1989.
-The most rated book is Wild Animus with 2502 ratings.
-The top author is Agatha Christie for most number of books and for most number of ratings is Nora Roberts.
-Top publisher is Harleyquin.
-Top countries are USA and Canada.
+- There are almost 40% missing values in the age column of the user csv.
+- Outliers present in Age.
+- A lot of zeros in the ratings that are implicit ratings.
+- Median implicit rating is 8.
+- There are twice as many books published in 2002 than in 1989.
+- The most rated book is Wild Animus with 2502 ratings.
+- The top author is Agatha Christie for most number of books and for most number of ratings is Nora Roberts.
+- Top publisher is Harleyquin.
+- Top countries are USA and Canada.
+
 The different recommender systems built include:
 
-Popularity-based filtering
-Recommendations based on correlation
-Collaborative filtering using cosine similarity (User-User)
-Collaborative filtering using k-nearest neighbors [kNN]
-The project demonstrated the potential of these techniques to generate personalized book recommendations for users.
+- Popularity-based filtering
+- Recommendations based on correlation
+- Collaborative filtering using cosine similarity (User-User)
+- Collaborative filtering using k-nearest neighbors [kNN]
+- The project demonstrated the potential of these techniques to generate personalized book recommendations for users.
 
 ---
 
