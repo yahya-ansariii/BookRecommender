@@ -1,5 +1,8 @@
 # Book Recommendation System - Unsupervised ML
 
+
+**AlmaBetter Verified Project** - [**Credentials**](https://certificates.almabetter.com/en/verify/74677315304391/)
+
 ![banner](banner.png)
 
 <font size=1>Image Courtesy: https://www.vecteezy.com/members/alenadumanchuk535799</font>
