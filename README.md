@@ -70,7 +70,8 @@ The different recommender systems built include:
 - Recommendations based on correlation
 - Collaborative filtering using cosine similarity (User-User)
 - Collaborative filtering using k-nearest neighbors [kNN]
-- The project demonstrated the potential of these techniques to generate personalized book recommendations for users.
+
+The project demonstrated the potential of these techniques to generate personalized book recommendations for users.
 
 ---
 
